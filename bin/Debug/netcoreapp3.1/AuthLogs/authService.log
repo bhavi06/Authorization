@@ -1,0 +1,48 @@
+INFO  10:19:38 Application started. Press Ctrl+C to shut down.
+INFO  10:19:38 Application started. Press Ctrl+C to shut down.
+INFO  10:19:38 Hosting environment: Development
+INFO  10:19:38 Hosting environment: Development
+INFO  10:19:38 Content root path: C:\Users\935795\OneDrive - Cognizant\Desktop\proj\POD3_Audit_Management_System-master\AuthorizationService
+INFO  10:19:38 Content root path: C:\Users\935795\OneDrive - Cognizant\Desktop\proj\POD3_Audit_Management_System-master\AuthorizationService
+INFO  10:19:39  Http GET Request From: TokenController
+INFO  10:19:39  GetJsonWebToken method of AuthService Called 
+INFO  10:19:39  GenerateJWT method of AuthRepo Called 
+INFO  05:51:49 Application started. Press Ctrl+C to shut down.
+INFO  05:51:49 Application started. Press Ctrl+C to shut down.
+INFO  05:51:49 Hosting environment: Development
+INFO  05:51:49 Hosting environment: Development
+INFO  05:51:49 Content root path: C:\Users\935795\OneDrive - Cognizant\Desktop\AuthorizationService
+INFO  05:51:49 Content root path: C:\Users\935795\OneDrive - Cognizant\Desktop\AuthorizationService
+INFO  05:51:49  Http GET Request From: TokenController
+INFO  05:51:49  GetJsonWebToken method of AuthService Called 
+INFO  05:51:49  GenerateJWT method of AuthRepo Called 
+INFO  05:51:52  Http GET Request From: TokenController
+INFO  05:51:52  GetJsonWebToken method of AuthService Called 
+INFO  05:51:52  GenerateJWT method of AuthRepo Called 
+INFO  05:51:53  Http GET Request From: TokenController
+INFO  05:51:53  GetJsonWebToken method of AuthService Called 
+INFO  05:51:53  GenerateJWT method of AuthRepo Called 
+INFO  05:51:53  Http GET Request From: TokenController
+INFO  05:51:53  GetJsonWebToken method of AuthService Called 
+INFO  05:51:53  GenerateJWT method of AuthRepo Called 
+INFO  12:03:46 Application started. Press Ctrl+C to shut down.
+INFO  12:03:46 Application started. Press Ctrl+C to shut down.
+INFO  12:03:46 Hosting environment: Development
+INFO  12:03:46 Hosting environment: Development
+INFO  12:03:46 Content root path: C:\Users\BHAVITHA\Desktop\webapi\Project\AuthorizationService
+INFO  12:03:46 Content root path: C:\Users\BHAVITHA\Desktop\webapi\Project\AuthorizationService
+INFO  12:03:47  Http GET Request From: TokenController
+INFO  12:03:47  GetJsonWebToken method of AuthService Called 
+INFO  12:03:54  GenerateJWT method of AuthRepo Called 
+INFO  12:06:06 Application started. Press Ctrl+C to shut down.
+INFO  12:06:07 Application started. Press Ctrl+C to shut down.
+INFO  12:06:07 Hosting environment: Development
+INFO  12:06:07 Hosting environment: Development
+INFO  12:06:07 Content root path: C:\Users\BHAVITHA\Desktop\webapi\Project\AuthorizationService
+INFO  12:06:07 Content root path: C:\Users\BHAVITHA\Desktop\webapi\Project\AuthorizationService
+INFO  12:06:08  Http GET Request From: TokenController
+INFO  12:06:08  GetJsonWebToken method of AuthService Called 
+INFO  12:06:09  GenerateJWT method of AuthRepo Called 
+INFO  12:06:54  Http GET Request From: TokenController
+INFO  12:06:54  GetJsonWebToken method of AuthService Called 
+INFO  12:06:54  GenerateJWT method of AuthRepo Called 
